@@ -8,6 +8,8 @@ public class HostHandler extends Stage {
     public HostHandler() {
         setTitle("Aeron Host");
 
+
+
         Scene scene = new Scene(new BorderPane(), 500, 500);
         setX(200);
         setY(200);
